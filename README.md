@@ -1,8 +1,14 @@
-### Eai! Eu sou o Elliot!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=2D0B66&duration=4000&lines=Hello+World!;+Eu+sou+o+Elliot!;" />
+</h1>
 
-- 🔭 Atualmente trabalho com HTML e CSS
-- 🌱 Aprendendo python 
-- 😄 Pronomes: Ele/Dele
+<div  align="center" >
+  - 🔭 Atualmente estou trabalhando como freelancer ...
+  <br>
+- 🌱 Atualmente estou estudando python e javascript ...
+</div>
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gghoxtt0ashhh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gghoxtt0ashhh&theme=radical)](https://github.com/gghoxtt0ashhh/github-readme-stats)
