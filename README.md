@@ -1,11 +1,9 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=4B0082&duration=4000&lines=Hello+World!;+Eu+sou+o+Elliot!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=#960104&duration=4000&lines=Hello+World!;+Eu+sou+o+Elliot!;" />
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou apenas estudando...
-  <br>
-- 🌱 Atualmente estou estudando desenvolvimento de jogos...
+- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas.
 </div>
 
 ##
@@ -18,6 +16,7 @@
   <img align="center" alt="ash-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ash-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ash-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ash-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>  
 
   ##
